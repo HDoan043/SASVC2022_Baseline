@@ -1,6 +1,8 @@
 [submodule "ECAPATDNN"]
 	path = ECAPATDNN
-	url = https://github.com/TaoRuijie/ECAPATDNN
+	url = https://github.com/HDoan043/ECAPA-TDNN
+	branch = sv-finetune-v0
 [submodule "aasist"]
 	path = aasist
-	url = https://github.com/clovaai/aasist
+	url = https://github.com/HDoan043/AASIST
+	branch = sa-finetune-v0
